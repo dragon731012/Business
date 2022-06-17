@@ -29,7 +29,7 @@ export default function App() {
       <input id="email" type="text" placeholder="email" required />
       <input
         id="Subject"
-        type="The burger Stop"
+        type="text"
         placeholder="The Burger Stop"
         required
       />
