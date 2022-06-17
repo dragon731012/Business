@@ -28,7 +28,7 @@ export default function App() {
       <title>The Burger Stop</title>
       <input id="email" type="text" placeholder="email" required />
       <input
-        id="Subject"
+        id="subject"
         type="text"
         placeholder="The Burger Stop"
         required
