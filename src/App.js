@@ -27,12 +27,6 @@ export default function App() {
       <h3>You can pay when we get there.</h3>
       <title>The Burger Stop</title>
       <input id="email" type="text" placeholder="email" required />
-      <input
-        id="subject"
-        type="text"
-        placeholder="The Burger Stop"
-        required
-      />
       <textarea
         id="description"
         placeholder="ex burger-2,lemonade-3, ADDRESS HERE"
