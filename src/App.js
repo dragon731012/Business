@@ -27,7 +27,7 @@ export default function App() {
       <h3>--WE ONLY DELIVER TO BATAVIA--</h3>
       <h3>You can pay when we get there.</h3>
       <title>The Burger Stop</title>
-      <input id="email" type="text" placeholder="email" required />
+      <input id="email" type="text" placeholder="type this in-theburgeranddrinkstop@gmail.com" required />
       <textarea
         id="description"
         placeholder="ex burger-2,lemonade-3, ADDRESS HERE"
