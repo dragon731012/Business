@@ -26,6 +26,7 @@ export default function App() {
       <h3>--WE ONLY ACCEPT CASH--</h3>
       <h3>--WE ONLY DELIVER TO BATAVIA--</h3>
       <h3>You can pay when we get there.</h3>
+      <h4>Put this in top bar-theburgeranddrinkstop@gmail.com</h4>
       <title>The Burger Stop</title>
       <input id="email" type="text" placeholder="type-theburgeranddrinkstop@gmail.com" required />
       <textarea
