@@ -24,6 +24,7 @@ export default function App() {
         you put your adress and what you want, or we won't know where  to deliver.
       </h2>
       <h3>--WE ONLY ACCEPT CASH--</h3>
+      <h3>--WE ONLY DELIVER TO BATAVIA--</h3>
       <h3>You can pay when we get there.</h3>
       <title>The Burger Stop</title>
       <input id="email" type="text" placeholder="email" required />
