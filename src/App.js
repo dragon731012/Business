@@ -19,7 +19,7 @@ export default function App() {
 
   return (
     <form className="App" onSubmit={handleSubmit}>
-    <img src="EE334983-682C-4D15-9BBE-CBA5F2AB689F.jpeg" usemap="#image-map" width="200" height="200">
+    <img src="" />
       <h2>
         place an order here, and we will deliver with free shipping! Make sure
         you put your adress and what you want, or we won't know where  to deliver.
