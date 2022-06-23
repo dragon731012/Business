@@ -23,7 +23,7 @@ export default function App() {
       title="Inline Frame Example"
       width="300"
       height="200"
-      src="https://www.example.com">
+      src="https://https://4io3yb.csb.app">
       </iframe>
       <h2>
         place an order here, and we will deliver with free shipping! Make sure
