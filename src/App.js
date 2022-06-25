@@ -19,12 +19,7 @@ export default function App() {
 
   return (
     <form className="App" onSubmit={handleSubmit}>
-      <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://https://4io3yb.csb.app">
-      </iframe>
+      <img src="IMG_2215.png"/>
       <h2>
         place an order here, and we will deliver with free shipping! Make sure
         you put your adress and what you want, or we won't know where  to deliver.
