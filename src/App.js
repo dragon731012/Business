@@ -19,7 +19,12 @@ export default function App() {
 
   return (
     <form className="App" onSubmit={handleSubmit}>
-      <img src="IMG_2215.png"/>
+     <Image
+       src="https://unsplash.com/photos/UI-eodgbeRo"
+       alt="Picture of a triangle"
+       width={500}
+       height={500}
+      />
       <h2>
         place an order here, and we will deliver with free shipping! Make sure
         you put your adress and what you want, or we won't know where  to deliver.
