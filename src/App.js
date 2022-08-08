@@ -67,7 +67,7 @@ export default function App() {
         you put your adress and what you want, or we won't know where  to deliver.
       </h2>
       <h3>--WE ONLY ACCEPT CASH--</h3>
-      <h3>--WE ONLY DELIVER TO BATAVIA, IL--</h3>
+      <h3>--WE ONLY DELIVER TO AND AROUND BATAVIA, IL--</h3>
       <h3>You can pay when we get there.</h3>
       <h4>Put this in top bar-theburgeranddrinkstop@gmail.com</h4>
       <h4>That is to prevent or try to prevent robot emailers.</h4>
